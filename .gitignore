@@ -1,0 +1,18 @@
+# Arquivos temporários do sistema e editores
+*.swp
+*.swo
+*~
+.DS_Store
+
+# VirtualBox
+*.vdi
+*.vbox
+*.vbox-prev
+*.sav
+*.vmsd
+*.vmem
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
